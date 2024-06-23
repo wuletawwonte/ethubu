@@ -27,6 +27,9 @@ echo "set number" > ~/.vimrc
 
 # Custom bash aliases
 echo "alias ll='ls -lah'" >> ~/.bashrc
+# Change the bash prompt text to only show the parent directory
+echo "export PS1='\[\e[1;34m\]\W\[\e[0m\]$ '" >> ~/.bashrc
+# Save changes to .bashrc file
 source ~/.bashrc
 
 echo "Setup complete!"
