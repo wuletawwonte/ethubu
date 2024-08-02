@@ -13,6 +13,9 @@ sudo apt install -y build-essential
 # Install Node.js and npm
 sudo apt install -y nodejs npm
 
+# Install plocate
+sudo apt install plocate
+
 # Install Docker
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh get-docker.sh
