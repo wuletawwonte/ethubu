@@ -5,7 +5,7 @@ sudo apt update
 sudo apt upgrade -y
 
 # Install general utilities
-sudo apt install -y curl wget git vim code
+sudo apt install -y curl wget git vim code neofetch
 
 # Install development tools
 sudo apt install -y build-essential
@@ -26,12 +26,12 @@ git config --global user.name "Wuletaw Wonte"
 git config --global user.email "wuletawwonte@gmail.com"
 
 # Vim configuration
-echo "set number" > ~/.vimrc
+echo "set number" >~/.vimrc
 
 # Custom bash aliases
-echo "alias ll='ls -lah'" >> ~/.bashrc
+echo "alias ll='ls -lah'" >>~/.bashrc
 # Change the bash prompt text to only show the parent directory
-echo "export PS1='\[\e[1;34m\]\W\[\e[0m\]$ '" >> ~/.bashrc
+echo "export PS1='\[\e[1;34m\]\W\[\e[0m\]$ '" >>~/.bashrc
 # Save changes to .bashrc file
 source ~/.bashrc
 
