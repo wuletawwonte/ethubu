@@ -8,3 +8,6 @@ A terminal workspace multiplexer
 
 ### neofetch
 A fast, highly customizable system info script
+
+### Chrome
+Install chrome and make it the default browser
