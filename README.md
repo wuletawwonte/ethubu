@@ -4,7 +4,7 @@
 
 ## Features
 
-- Third Party Repositories: Adds PPAs and installs software not included in the official Ubuntu respository. 
+- Third Party Repositories: Adds PPAs and installs both terminal and desktop applications that are not included in the official Ubuntu respository. 
 - Desktop Environment Tweaks: Personalizes the desktop environment with my preffered settings. 
 
 ## How to Use
