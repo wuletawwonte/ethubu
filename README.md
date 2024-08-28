@@ -1,6 +1,6 @@
-# my-ubuntu-setup
+# Ethubu
 
-> This custom shell script is designed to automate the setup process following a fresh Ubuntu Desktop installation. It installs the software I regularly use and applies my preferred system settings.
+> This is a custom shell script designed to automate the setup process following a fresh Ubuntu Desktop installation. It installs the software I regularly use mostly for development and applies my preferred system settings.
 
 ## Features
 
